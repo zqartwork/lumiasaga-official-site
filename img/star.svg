@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="34" viewBox="0 0 36 34">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f8cb65;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="五角星_1" data-name="五角星 1" class="cls-1" d="M923,3520l5.932,10.68L941,3532.99l-8.4,8.9,1.525,12.11L923,3548.82,911.876,3554l1.525-12.11-8.4-8.9,12.065-2.31L923,3520" transform="translate(-905 -3520)"/>
+</svg>
